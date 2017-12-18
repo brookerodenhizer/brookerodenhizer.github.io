@@ -6,7 +6,7 @@ url: "http://brookerodenhizer.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Brooke Rodenhizer
-  avatar: brooke.jpg
+  avatar: Brooke.jpg
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
